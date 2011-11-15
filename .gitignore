@@ -57,3 +57,5 @@ wojilu.Web/static/upload/chm/
 wojilu.Web/framework/log/
 wojilu.Web/framework/cache/
 wojilu.Web/framework/index/
+wojilu.Web/framework/config/
+wojilu.Web/framework/data/
